@@ -47,11 +47,17 @@ PhD in Math | Full-Stack Dev (React, Next.js, Node, Python, SQL) | AI/ML Enthusi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
 
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Hasansarwer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasansarwer&layout=compact&langs_count=10&theme=tokyonight" />
+<!--<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Hasansarwer&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=7200" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasansarwer&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+-->
 
 <!--
 **Hasansarwer/Hasansarwer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
