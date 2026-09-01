@@ -1,4 +1,4 @@
-PhD in Math | Full-Stack Dev (React, Next.js, Python, SQL) | AI/ML Engineer | SaaS Builder
+PhD in Math | Teacher | Product Builder
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
